@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["FileUpload","ImageUpload"],"sources":["../../src/index.ts"],"sourcesContent":["export { FileUpload } from \"./file\"\nexport { ImageUpload } from \"./image\"\n\n"],"mappings":"AAAA,SAASA,UAAU,QAAQ,QAAQ;AACnC,SAASC,WAAW,QAAQ,SAAS","ignoreList":[]}
