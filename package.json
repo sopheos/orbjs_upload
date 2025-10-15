@@ -1,9 +1,14 @@
 {
   "name": "@sopheos/orbjs_upload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Lucas"
   },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sopheos/orbjs_upload/issues"
+  },
+  "homepage": "https://github.com/sopheos/orbjs_upload#readme",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/types/index.d.ts",
